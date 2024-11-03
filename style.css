@@ -83,7 +83,7 @@ main {
   padding-bottom: 8px;
 }
 
-.main2-visuual-border {
+.main-visual-border {
   background-color: #EC715F;
   height: 3px;
   width: 70px;
@@ -157,4 +157,60 @@ main {
   background-position: center center;
   width: 300px;
   height: 250px;
+}
+
+.main3 {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main3-visual-title {
+  margin-top: 90px;
+  margin-bottom: 8px;
+  font-size: 32px;
+  color: #000000;
+}
+
+.main3-visual-paragraph {
+  margin: 30px auto;
+  font-size: 16px;
+  color: #000000;
+}
+
+.main-visual-strength-box {
+  width: 980px;
+  display: flex;
+  margin: 30px auto 90px auto;
+}
+
+.main3-visual-strength {
+  margin-right: 10px;
+}
+
+.size {
+  font-size: 60px;
+}
+
+.main3-visual-title {
+  margin: 10px auto;
+  font-size: 20px;
+  color: #000000;
+}
+
+.main3-visual-paragraph {
+  font-size: 16px;
+  color: #000000;
+}
+
+.main4 {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #ECEFF1;
+}
+
+.main4-title {
+  margin-top: 90px;
+  margin-bottom: 8px;
 }
