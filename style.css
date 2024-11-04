@@ -260,3 +260,56 @@ main {
   font-size: 16px;
   margin-bottom: 20px;
 }
+
+.main5 {
+  width: 100%;
+  padding-bottom: 90px;
+}
+
+.main5-box {
+  width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.main5-title {
+  padding-top: 90px;
+  padding-bottom: 8px;
+  font-size: 32px;
+}
+
+.main5-paragraph {
+  margin: 30px auto;
+  font-size: 16px;
+}
+
+.main5-maill-SNS {
+  margin-top: 30px;
+  display: flex;
+}
+
+.main5-maill {
+  width: 400px;
+}
+
+.main5-maill-SNS {
+  margin: 0 auto;
+}
+
+.main5-maill-title {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+.main5-maill-content {
+  margin-bottom: 20px;
+}
+
+.main5-SNS-icon {
+  display: flex;
+}
+
+.icon {
+  margin-right: 20px;
+  font-size: 50px;
+}
